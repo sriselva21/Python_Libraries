@@ -21,12 +21,7 @@ https://pytube.io/en/latest/
 
 emoji - Display emoji symbols using python
 https://carpedm20.github.io/emoji/docs/
-
-Overview of all emoji:
-
-https://carpedm20.github.io/emoji/
-
-(auto-generated list of the emoji that are supported by the current version of this package)
+Overview of all emoji: https://carpedm20.github.io/emoji/ (auto-generated list of the emoji that are supported by the current version of this package)
 
 
 
